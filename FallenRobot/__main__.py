@@ -104,7 +104,7 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="🕊️𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄 & 𝐀𝐃𝐃 𝐅𝐀𝐒𝐓🕊️",
+            text="🕊️ᴄʟɪᴄᴋ ʜᴇʀᴇ & ᴀᴅᴅ ꜰᴀꜱᴛ🕊️",
             url=f"https://t.me/SUKOON_MUSIC_BOT?startgroup=true",
         ),
     ],
@@ -118,8 +118,8 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="🥳𝐁𝐎𝐓 𝐑𝐄𝐏𝐎/𝐒𝐎𝐔𝐑𝐂𝐄🤩",
-            url=f"https://github.com/THE-VIP-BOY-OP/VIP-ROBOT",
+            text="🥳ʙᴏᴛ ʀᴇᴩᴏ/ꜱᴏᴜʀᴄᴇ🤩",
+            url=f"https://telegram.me/DP_WORLD_OF_TELEGRAM",
         ),
     ],
 ]
