@@ -1,14 +1,14 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    𝄟🌹🇻 🇮 🇵  🇷 🇴 🇧 🇴 🇹​​​​​🌹​​​​​𝄟​​​​​
+    𝄟🌹𝙎𝙐𝙆𝙊𝙊𝙉 ✘ 𝙈𝙐𝙎𝙄𝘾​​​​​🌹​​​​​𝄟​​​​​
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/b2b4fee33e6c7d2a5651a.jpg">
+  <img src="https://telegra.ph//file/908226e84437caaa6e7e3.jpg">
 </p>
 
-_ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [TG MANAGER](https://t.me/TG_MANAGER_ROBOT)_
+_ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [MAKE BY DEVU](https://telegram.me/devu_86)_
 ━━━━━━━━━━━━━━━━━━━━
 
 
