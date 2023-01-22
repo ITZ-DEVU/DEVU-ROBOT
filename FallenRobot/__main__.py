@@ -89,15 +89,14 @@ PM_START_TEXT = """
 
 ➻ ᴛʜᴇ ᴍᴏsᴛ ᴩᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.
 
-𝐘𝐄 𝐁𝐎𝐓 𝐁𝐇𝐈 𝐃𝐄𝐊𝐇 𝐋𝐎 𝐘𝐑 𝐁𝐎𝐇𝐎𝐓 𝐀𝐌𝐀𝐙𝐈𝐍𝐆 𝐇𝐀𝐈🙈👇👇
-┏━━━━━━━━━━━━━━━━━━┓
-┣★ [MISS ROSE ROBOT](https://t.me/miss_rose_robot) 🌹
-┣★ [TG MANAGER ROBOT](https://t.me/tg_manager_robot) 💫
-┣★ [THE KANISHKA BOT](https://t.me/the_kanishka_bot) 💥
+𝐘𝐄 𝐃𝐄𝐊𝐇 𝐋𝐎 𝐘𝐑 𝐁𝐎𝐇𝐎𝐓 𝐀𝐌𝐀𝐙𝐈𝐍𝐆 𝐇𝐀𝐈🙈👇👇
+┏━━━━━━━━━━━━━━━━━┓
+┣★ [⚡ᴍᴀꜱᴛᴇʀᴍɪɴᴅ🕊️](https://t.me/devu_9)
+┣★ [💫 ᴀʙᴏᴜᴛ ᴍᴇ 🌹](https://t.me/devu_7) 💥
 ┣★ 𝐄𝐍𝐉𝐎𝐘 𝐊𝐑𝐎 😂💃💃 
 ┗━━━━━━━━━━━━━━━━━━┛
 
-⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[𝕯𝖊𝖛𝖚](https://t.me/devu_86)⛦⃕͜🇮🇳𓊉
 
 ๏ *ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ 𝐇𝐎𝐓 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒 ʙᴜᴛᴛᴏɴ* .
 """
@@ -106,16 +105,16 @@ buttons = [
     [
         InlineKeyboardButton(
             text="🕊️𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄 & 𝐀𝐃𝐃 𝐅𝐀𝐒𝐓🕊️",
-            url=f"https://t.me/TG_MANAGER_ROBOT?startgroup=true",
+            url=f"https://t.me/SUKOON_MUSIC_BOT?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="🥵𝐇𝐎𝐓 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒🥵", callback_data="help_back"),
+        InlineKeyboardButton(text="🥵 ʜᴏᴛ ꜰᴇᴀᴛᴜʀᴇꜱ 🥵", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="⚡𝐉𝐀𝐀𝐍⚡", url=f"https://t.me/Tg_Friendss"),
-        InlineKeyboardButton(text="🥀𝐏𝐀𝐏𝐀 𝐉𝐈🥀", url=f"https://t.me/THE_VIP_BOY"),
-        InlineKeyboardButton(text="💫𝐏𝐑𝐀𝐍💫", url=f"https://t.me/vip_creators"),
+        InlineKeyboardButton(text="⚡ᴀʙᴏᴜᴛ ᴍᴇ⚡", url=f"https://t.me/devu_7"),
+        InlineKeyboardButton(text="🥀 ᴩᴀᴩᴀ ᴊɪ 🥀 ", url=f"https://t.me/devu_86"),
+        InlineKeyboardButton(text="💫 ᴍᴀꜱᴛᴇʀᴍɪɴᴅ 💫 ", url=f"https://t.me/devu_9"),
     ],
     [
         InlineKeyboardButton(
@@ -138,9 +137,9 @@ USER_SETTINGS = {}
 HELP_STRINGS = f"""
 *» {BOT_NAME} ᴇxᴄʟᴜsɪᴠᴇ ꜰᴇᴀᴛᴜʀᴇs*
 
-𝐘𝐄𝐇 𝐉𝐎𝐈𝐍 𝐊𝐑 𝐋𝐎 𝐘𝐀𝐀𝐑𝐀 ➪ [🔥『TG FRIENDS』🔥](https://t.me/TG_FRIENDSS)
+𝐘𝐄𝐇 𝐉𝐎𝐈𝐍 𝐊𝐑 𝐋𝐎 𝐘𝐀𝐀𝐑𝐀 ➪ [🔥『ᴍᴀsᴛᴇʀᴍɪɴᴅ ɴᴇᴛᴡᴏʀᴋ 😏❣️🥀』🔥](https://t.me/devu_9)
                    
-⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[𝕯𝖊𝖛𝖚](https://t.me/devu_86)⛦⃕͜🇮🇳𓊉
 """
 	          
 
